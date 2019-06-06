@@ -1,0 +1,4 @@
+- GO Thru GLMs on sklearn website
+- explain differences between statsmodels and sklearn output
+- explain about need to standardize data for better solver performance
+- 
